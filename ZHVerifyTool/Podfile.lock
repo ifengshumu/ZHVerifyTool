@@ -1,0 +1,16 @@
+PODS:
+  - ZHVerifyTool (1.0.0)
+
+DEPENDENCIES:
+  - ZHVerifyTool (from `../`)
+
+EXTERNAL SOURCES:
+  ZHVerifyTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHVerifyTool: 2f44959012dd8f236116ecd5e58e8127b6f0f9ef
+
+PODFILE CHECKSUM: 106157fb5360a748e536c7b13d4cc7ec1d41faba
+
+COCOAPODS: 1.5.3
